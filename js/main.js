@@ -3,7 +3,7 @@
   -- Them Nhan Vien
 */
 function themNguoiDung() {
-  console.log("them nguoi dung");
+  console.log("them nguoi dung hoangdang1");
 }
 
 var mangNhanVien = [];
